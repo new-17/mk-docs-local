@@ -1,0 +1,8 @@
+site_name: My Docs
+site_name: Document
+site_url: https://example.com/
+nav:
+    - Home: index.md
+    - beFlexContent: beflex.md
+    - Extension: extension.md
+theme: readthedocs
